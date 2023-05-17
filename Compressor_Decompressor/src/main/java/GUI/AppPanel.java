@@ -4,8 +4,8 @@
  */
 package GUI;
 
-import Comp_Dcomp.compressor;
-import Comp_Dcomp.decompressor;
+import Comp_Decomp.compressor;
+import Comp_Decomp.decompressor;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
