@@ -20,7 +20,16 @@ like buttons, labels, and texts.
 The project is designed to be easy to use. The user interface is simple and straightforward. The user can select the file to be compressed or decompressed, and then select the compression algorithm. The project will then compress or decompress the file and save the output file to a specified location.
 
 The project is a useful tool for compressing and decompressing files. It is easy to use and can be used to compress a variety of file types. The project is also portable and can be run on any computer with Java installed.
+
+User Interface of the Application:-
+
 ![Screenshot 2023-05-19 201237](https://github.com/rahulkishne3/Compressor_Decompressor/assets/99482503/c5032e2c-afb5-4c5f-9aef-dd5c85d3a67e)
+
+After we clicking Compress or Decompress button this box is opened:-
+
+![Screenshot 2023-05-19 201407](https://github.com/rahulkishne3/Compressor_Decompressor/assets/99482503/e7bda7a7-d982-461a-811a-220a38588020)
+
+After Compressed and Decompressed File,file named is visible like that:-
 
 ![Screenshot 2023-05-19 201517](https://github.com/rahulkishne3/Compressor_Decompressor/assets/99482503/c0f4d81b-9190-4c83-b02d-3c589dc98e40)
 
