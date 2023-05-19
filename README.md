@@ -22,6 +22,9 @@ The project is designed to be easy to use. The user interface is simple and stra
 The project is a useful tool for compressing and decompressing files. It is easy to use and can be used to compress a variety of file types. The project is also portable and can be run on any computer with Java installed.
 ![Screenshot 2023-05-19 201237](https://github.com/rahulkishne3/Compressor_Decompressor/assets/99482503/c5032e2c-afb5-4c5f-9aef-dd5c85d3a67e)
 
+![Screenshot 2023-05-19 201517](https://github.com/rahulkishne3/Compressor_Decompressor/assets/99482503/c0f4d81b-9190-4c83-b02d-3c589dc98e40)
+
+
 
 
 
